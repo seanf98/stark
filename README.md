@@ -1,4 +1,3 @@
-
 <h1 align="left">
     STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases
 </h1>
@@ -106,6 +105,7 @@ There are two ways to load the knowledge base data:
     - `emb_dir`: the directory to store embeddings.
     - `output_dir`: the directory to store evaluation outputs.
 
+### Docker Env 
 
 ## Reference 
 
